@@ -1,8 +1,6 @@
-# Google Tasks -> Habitica One-way Sync
+# Notice 
+The Original maintainer stopped maintaining this because they no longer use habitica. I forked it to use for myself and possibly look at implementing the remaining features listed below. I am very new to programming so please be patient with me.
 
-As of 1 July 2023, this project is no longer being maintained. 
-
-I don't really use Habitica anymore, sorry.
 
 ## Original readme follows
 
